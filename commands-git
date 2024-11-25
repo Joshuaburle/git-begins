@@ -2,3 +2,4 @@ Git clone https://github.com/Joshuaburle/git-begins.git
 Git add
 Git commit -m"commentaire"
 Git push
+git pull
